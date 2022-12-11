@@ -1,0 +1,5 @@
+train: fuego/train/images
+val: fuego/valid/images
+
+nc: 1
+names: ['smoke']
